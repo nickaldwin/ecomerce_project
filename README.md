@@ -52,6 +52,3 @@ Technologies used in the project:
 *   Chakra Ui
 *   JavaScript
 
-<h2>Special Thanks 😊</h2>
-
-<p>Thanks Masai School for giving us this opportunity to show and deploy our skills to explore ideas and learn new things about project-making </p>
