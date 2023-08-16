@@ -5,7 +5,7 @@
 <p id="description">Shopease is an e-commerce online website for the best products of all categories for the consumer. User can buy products at best deals and offers
 <h2>🌐See Live</h2>
 
-[]()
+[live page](https://shopease-net.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
